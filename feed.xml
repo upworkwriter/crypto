@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://crypto.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://cryptofan.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo5.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,129 +18,132 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-a{
-text-decoration: none!important;
+.d0d75fe90d803a7fffdc9c0ac400f1ba7{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.vec8f2cb38a96d2285440f64012c53ae3:hover{
+box-shadow: 0 50.3px 50.4px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.d4279af75e60b1b0b9b47d0b8093572ad a,.c7e50c43b0eeca475fab391c207f40784 a{
+color:#0a0a0a!important;
+text-decoration: underline !important;
+}
+.nav-item{
+padding-left:7.9px;
+padding-right:8.3px;
+padding-top:5.1px;
+padding-bottom:5px;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-ul{
-list-style: circle;
-}
-.vc182fe057ecf293fdf9c363116a9ab02 a,.ycefac8f258c5d74f19b346fc40a057a2 a{
-color:#111111!important;
-text-decoration: underline !important;
-}
-html{
-scroll-behavior: smooth;
-}
-.ycefac8f258c5d74f19b346fc40a057a2 a{
-font-size:16px;
+a{
+text-decoration: none!important;
 }
 footer{
-background:#141414;
+background:#080808;
 color:#ffffff;
 }
-.d71fec736fe57de25cc6bb979a30ff6cb:hover{
-box-shadow: 0 49.9px 49.8px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.nav-item{
-padding-left:8.4px;
-padding-right:8.5px;
-padding-top:5px;
-padding-bottom:5.2px;
-}
-.vc182fe057ecf293fdf9c363116a9ab02 p,.vc182fe057ecf293fdf9c363116a9ab02 a,.vc182fe057ecf293fdf9c363116a9ab02 span,.vc182fe057ecf293fdf9c363116a9ab02 label{
-font-size:16px!important;
-}
 .btn-md{
-padding: 14.7px 30px;
+padding: 14.8px 30.1px;
 border-radius: 0;
 }
-.ycefac8f258c5d74f19b346fc40a057a2 p,.ycefac8f258c5d74f19b346fc40a057a2 span,.ycefac8f258c5d74f19b346fc40a057a2 label{
+.c7e50c43b0eeca475fab391c207f40784 p,.c7e50c43b0eeca475fab391c207f40784 span,.c7e50c43b0eeca475fab391c207f40784 label{
 font-size:16px!important;
 }
 footer *{
 font-size:16px !important;
 }
-.navbar a{
-font-size: 18.5px!important;
-font-weight: bold;
+ul{
+list-style: circle;
 }
-.nav-link{
-color: #c39928!important;
-
+.c7e50c43b0eeca475fab391c207f40784 a{
+font-size:16px;
 }
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.vb300cd99fd271ff4d21425872fa5674f{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
+a:hover{
+color:;background:!important;
+}
+.nav-link{
+color: #c39928;
+
+}
+html{
+scroll-behavior: smooth;
+}
+.d4279af75e60b1b0b9b47d0b8093572ad p,.d4279af75e60b1b0b9b47d0b8093572ad a,.d4279af75e60b1b0b9b47d0b8093572ad span,.d4279af75e60b1b0b9b47d0b8093572ad label{
+font-size:16px!important;
+}
+.navbar a{
+font-size: 17.9px!important;
+font-weight: bold;
 }
 </style>
 </head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://crypto.netlify.app/index.html"  ><img alt="img/logo5.png" src="img/logo5.png"  width="150px" ></a>
+<a class="navbar-brand" href="https://cryptofan.netlify.app/index.html"  ><img alt="img/logo5.png" src="img/logo5.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto navbar-nav d-flex align-items-center"><li class="nav-item"><a class="v7444998f2f445f869c084c4301acaf43 nav-link" href="https://crypto.netlify.app/news.html"  >News</a></li>
-  
-<li class="dropdown nav-item ">
-<a class="nav-link dropdown-toggle v7444998f2f445f869c084c4301acaf43" href="https://crypto.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Coinify Solutions Ethereum Digital log</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://crypto.netlify.app/index.html"  >Coinify Solutions Ethereum Digital log</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/smart-contracts.html"  >Smart contracts</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/decentralized-applications-dapps.html"  >Decentralized applications dApps</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/ether-cryptocurrency.html"  >Ether cryptocurrency</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/proof-of-stake-consensus-mechanism.html"  >Proof of Stake consensus mechanism</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/ethereum-virtual-machine-evm.html"  >Ethereum Virtual Machine EVM</a>
+<ul class="ml-auto d-flex navbar-nav align-items-center"><li class="nav-item"><a class="nav-link c76586f3d006c36c8b5c69278b0487d9c" href="https://cryptofan.netlify.app/news.html"  >News</a></li>
   
 <li class=" dropdown nav-item">
-<a class="nav-link v7444998f2f445f869c084c4301acaf43 dropdown-toggle" href="https://crypto.netlify.app/smart-contracts-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Smart contracts</a>
+<a class="c76586f3d006c36c8b5c69278b0487d9c nav-link dropdown-toggle" href="https://cryptofan.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Coinify Solutions Ethereum Digital log</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://crypto.netlify.app/smart-contracts-1.html"  >Smart contracts</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/solidity-programming-language.html"  >Solidity programming language</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/execution-on-the-blockchain.html"  >Execution on the blockchain</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/automation-of-processes.html"  >Automation of processes</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/security-vulnerabilities.html"  >Security vulnerabilities</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/interoperability-with-other-blockchains.html"  >Interoperability with other blockchains</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/index.html"  >Coinify Solutions Ethereum Digital log</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/smart-contracts.html"  >Smart contracts</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/decentralized-applications-dapps.html"  >Decentralized applications dApps</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/ether-cryptocurrency.html"  >Ether cryptocurrency</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/proof-of-stake-consensus-mechanism.html"  >Proof of Stake consensus mechanism</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/ethereum-virtual-machine-evm.html"  >Ethereum Virtual Machine EVM</a>
   
-<li class="dropdown  nav-item">
-<a class="dropdown-toggle v7444998f2f445f869c084c4301acaf43 nav-link" href="https://crypto.netlify.app/decentralized-applications-dapps-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Decentralized applications (dApps)</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://crypto.netlify.app/decentralized-applications-dapps-1.html"  >Decentralized applications (dApps)</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/user-experience-design.html"  >User experience design</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/integration-with-wallets-and-browsers.html"  >Integration with wallets and browsers</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/governance-models.html"  >Governance models</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/token-economics.html"  >Token economics</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/scalability-solutions.html"  >Scalability solutions</a>
-  
-<li class="nav-item dropdown ">
-<a class="dropdown-toggle nav-link v7444998f2f445f869c084c4301acaf43" href="https://crypto.netlify.app/ether-cryptocurrency-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Ether cryptocurrency</a>
+<li class=" dropdown nav-item">
+<a class="dropdown-toggle c76586f3d006c36c8b5c69278b0487d9c nav-link" href="https://cryptofan.netlify.app/smart-contracts-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Smart contracts</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://crypto.netlify.app/ether-cryptocurrency-1.html"  >Ether cryptocurrency</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/mining-and-staking-rewards.html"  >Mining and staking rewards</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/market-value-and-price-fluctuations.html"  >Market value and price fluctuations</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/supply-and-circulating-supply.html"  >Supply and circulating supply</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/wallet-options-for-storing-ether.html"  >Wallet options for storing Ether</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/ether-transactions-on-the-blockchain.html"  >Ether transactions on the blockchain</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/smart-contracts-1.html"  >Smart contracts</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/solidity-programming-language.html"  >Solidity programming language</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/execution-on-the-blockchain.html"  >Execution on the blockchain</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/automation-of-processes.html"  >Automation of processes</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/security-vulnerabilities.html"  >Security vulnerabilities</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/interoperability-with-other-blockchains.html"  >Interoperability with other blockchains</a>
   
 <li class="dropdown  nav-item">
-<a class="nav-link dropdown-toggle v7444998f2f445f869c084c4301acaf43" href="https://crypto.netlify.app/must-read.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Must Read</a>
+<a class="nav-link dropdown-toggle c76586f3d006c36c8b5c69278b0487d9c" href="https://cryptofan.netlify.app/decentralized-applications-dapps-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Decentralized applications (dApps)</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://crypto.netlify.app/must-read.html"  >Must Read</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/proof-of-stake-consensus-mechanism-1.html"  >Proof of Stake consensus mechanism</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/staking-requirements-and-rewards.html"  >Staking requirements and rewards</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/network-security-measures.html"  >Network security measures</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/casper-protocol-implementation.html"  >Casper protocol implementation</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/rewards-distribution-among-validators.html"  >Rewards distribution among validators</a>
-<a class="dropdown-item" href="https://crypto.netlify.app/staking-pools-and-delegation-mechanisms.html"  >Staking pools and delegation mechanisms</a>
-<li class="nav-item"><a class="nav-link v7444998f2f445f869c084c4301acaf43" rel=nofollow href="https://crypto.netlify.app/about-us.html">About Us</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/decentralized-applications-dapps-1.html"  >Decentralized applications (dApps)</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/user-experience-design.html"  >User experience design</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/integration-with-wallets-and-browsers.html"  >Integration with wallets and browsers</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/governance-models.html"  >Governance models</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/token-economics.html"  >Token economics</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/scalability-solutions.html"  >Scalability solutions</a>
+  
+<li class="dropdown nav-item ">
+<a class="c76586f3d006c36c8b5c69278b0487d9c nav-link dropdown-toggle" href="https://cryptofan.netlify.app/ether-cryptocurrency-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Ether cryptocurrency</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://cryptofan.netlify.app/ether-cryptocurrency-1.html"  >Ether cryptocurrency</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/mining-and-staking-rewards.html"  >Mining and staking rewards</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/market-value-and-price-fluctuations.html"  >Market value and price fluctuations</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/supply-and-circulating-supply.html"  >Supply and circulating supply</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/wallet-options-for-storing-ether.html"  >Wallet options for storing Ether</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/ether-transactions-on-the-blockchain.html"  >Ether transactions on the blockchain</a>
+  
+<li class=" nav-item dropdown">
+<a class="c76586f3d006c36c8b5c69278b0487d9c nav-link dropdown-toggle" href="https://cryptofan.netlify.app/must-read.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Must Read</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://cryptofan.netlify.app/must-read.html"  >Must Read</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/proof-of-stake-consensus-mechanism-1.html"  >Proof of Stake consensus mechanism</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/staking-requirements-and-rewards.html"  >Staking requirements and rewards</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/network-security-measures.html"  >Network security measures</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/casper-protocol-implementation.html"  >Casper protocol implementation</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/rewards-distribution-among-validators.html"  >Rewards distribution among validators</a>
+<a class="dropdown-item" href="https://cryptofan.netlify.app/staking-pools-and-delegation-mechanisms.html"  >Staking pools and delegation mechanisms</a>
+<li class="nav-item"><a class="c76586f3d006c36c8b5c69278b0487d9c nav-link" rel=nofollow href="https://cryptofan.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -198,19 +201,19 @@ color:#000000!important;
 <p>
 This website is owned and published by:
 Coinify Solutions</br>
-950-117-6050</br>
-0615  Willow Street</br>
-San Diego, CA, 92109</br>
+360-631-6242</br>
+3830  East Street</br>
+Sacramento, CA, 95816</br>
 United States</br>
 </br>
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="06476b636a6f6751746f7263466973726a69696d2865696b">[email&#160;protected]</a></br>
+ElizabethView9@hotmail.com</br>
 </p>
 </section>
 <footer>
-<div class="container pt-5 py-4" >
-<div class="row"><div class="col-lg-3"><p><a class="v7444998f2f445f869c084c4301acaf43" href="https://crypto.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="v7444998f2f445f869c084c4301acaf43" href="https://crypto.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="v7444998f2f445f869c084c4301acaf43" href="https://crypto.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="pt-5 py-4 container" >
+<div class="row"><div class="col-lg-3"><p><a class="c76586f3d006c36c8b5c69278b0487d9c" href="https://cryptofan.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="c76586f3d006c36c8b5c69278b0487d9c" href="https://cryptofan.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="c76586f3d006c36c8b5c69278b0487d9c" href="https://cryptofan.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 <p><p>The information provided on this blog is for general informational purposes only and is not intended as investment advice. All information is provided in good faith; however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on this blog.</p>
 
 <p>Cryptocurrency investments are highly volatile and high-risk. They are not suitable for all investors, and you should ensure that you understand the risks involved, seeking independent advice if necessary before making any investment decisions.</p></p>
@@ -218,7 +221,7 @@ United States</br>
 </div></div>
 </div>
 </footer> 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
